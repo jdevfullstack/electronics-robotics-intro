@@ -4,7 +4,7 @@ microcontroller, it is very important to learn the
 basic electronics first.
 
 ## Electrical & Electronics Engineering
-Electrical and electronics engineering, the branch of 
+"Electrical and electronics engineering, the branch of 
 engineering concerned with the practical applications of 
 electricity in all its forms, including those of the field
 of electronics. Electronics engineering is that branch of 
@@ -19,6 +19,6 @@ engineering is the branch dealing with “heavy current”—that is,
 electric light and power systems and apparatuses—whereas 
 electronics engineering deals with such “light current” applications
 as telephone and radio communication, computers, radar, 
-and automatic control systems.
+and automatic control systems."
 
 <https://www.britannica.com/technology/electrical-and-electronics-engineering>
