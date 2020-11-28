@@ -1,7 +1,4 @@
 # Basic Electronics
-Before dealing with the comprehensive programming with a 
-microcontroller, it is very important to learn the 
-basic electronics first.
 
 ## Electrical & Electronics Engineering
 > Electrical and electronics engineering, the branch of 
