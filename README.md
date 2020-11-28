@@ -55,3 +55,9 @@ break in the circuit.
 ### Two Basic Types of Circuits
 1. Series Circuit
 2. Parallel Circuit
+
+## Electronic Components Used in Our Project
+1. Power Supply
+2. Jumper Wires
+3. Light Emitting Diode
+4. Switch
