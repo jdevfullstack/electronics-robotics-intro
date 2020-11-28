@@ -42,6 +42,7 @@ a larger component, without a complex front-end operating system (OS).
 <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
 
 Arduino UNO (microcontroller)
+
 ![sample](https://adrianglasser.com/EnVisionWorkshop/images/topic04_ArduinoUno_anatomy.jpg)
 
 ## Circuit
