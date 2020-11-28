@@ -25,7 +25,7 @@ and automatic control systems.
 
 ## Electronics and Robotics
 Electronics devices can simply be controlled by adding a 
-microcontroller. When we program an electronic device the
+**microcontroller**. When we program an electronic device the
 way we want it to work (particularly with sensors),
 it can be considered a robot. 
 
