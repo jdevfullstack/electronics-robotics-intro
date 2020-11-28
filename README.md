@@ -41,6 +41,9 @@ a larger component, without a complex front-end operating system (OS).
 
 <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
 
+Sample Arduino Uno
+![sample](https://adrianglasser.com/EnVisionWorkshop/images/topic04_ArduinoUno_anatomy.jpg)
+
 ## Circuit
 > In electronics, a circuit is a closed path that allows 
 electricity to flow from one point to another. It may include various
