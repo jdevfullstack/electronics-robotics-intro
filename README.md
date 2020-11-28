@@ -72,5 +72,5 @@ source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 ## Electronic Components Used in Our Project
 1. Power Supply
 2. Jumper Wires
-3. Light Emitting Diode
+3. Light-Emitting Diode
 4. Switch
