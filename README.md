@@ -28,3 +28,18 @@ Electronics devices can simply be controlled by adding a
 microcontroller. When we program an electronic device the
 way we want it to work (particularly with sensors),
 it can be considered a robot. 
+
+## The Microcontroller
+> A microcontroller is a compact integrated circuit designed 
+to govern a specific operation in an embedded system. A typical
+microcontroller includes a processor, memory and input/output 
+(I/O) peripherals on a single chip.
+>
+> Sometimes referred to as an embedded controller or microcontroller 
+unit (MCU), microcontrollers are found in vehicles, robots, office 
+machines, medical devices, mobile radio transceivers, vending machines 
+and home appliances, among other devices. They are essentially simple 
+miniature personal computers (PCs) designed to control small features of 
+a larger component, without a complex front-end operating system (OS).
+
+<https://internetofthingsagenda.techtarget.com/definition/microcontroller>
