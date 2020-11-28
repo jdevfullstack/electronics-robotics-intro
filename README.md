@@ -18,7 +18,7 @@ electronics engineering deals with such “light current” applications
 as telephone and radio communication, computers, radar, 
 and automatic control systems.
 
-<https://www.britannica.com/technology/electrical-and-electronics-engineering>
+source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>
 
 ## Electronics and Robotics
 Electronics devices can simply be controlled by adding a 
@@ -39,7 +39,7 @@ and home appliances, among other devices. They are essentially simple
 miniature personal computers (PCs) designed to control small features of 
 a larger component, without a complex front-end operating system (OS).
 
-<https://internetofthingsagenda.techtarget.com/definition/microcontroller>
+source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
 
 Arduino UNO (microcontroller)
 
@@ -52,7 +52,7 @@ electrical components, such as transistors, resistors,
 and capacitors, but the flow is unimpeded by a gap or 
 break in the circuit.
 
-<https://techterms.com/definition/circuit>
+source: <https://techterms.com/definition/circuit>
 
 ![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
 
@@ -67,7 +67,7 @@ whole current flows through each component.
 > a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
-<https://www.britannica.com/technology/electric-circuit#ref22644>
+source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 
 ## Electronic Components Used in Our Project
 1. Power Supply
