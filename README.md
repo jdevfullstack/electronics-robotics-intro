@@ -57,7 +57,14 @@ break in the circuit.
 
 ### Two Basic Types of Circuits
 1. Series Circuit
+A series circuit comprises a path along which the 
+whole current flows through each component. 
+
 2. Parallel Circuit
+A parallel circuit comprises branches so that the 
+current divides and only part of it flows through any branch.
+
+<https://www.britannica.com/technology/electric-circuit#ref22644>
 
 ## Electronic Components Used in Our Project
 1. Power Supply
