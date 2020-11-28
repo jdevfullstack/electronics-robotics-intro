@@ -51,3 +51,7 @@ break in the circuit.
 <https://techterms.com/definition/circuit>
 
 ![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
+
+### Two Basic Types of Circuits
+1. Series Circuit
+2. Parallel Circuit
