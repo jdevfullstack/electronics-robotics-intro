@@ -56,14 +56,12 @@ break in the circuit.
 ![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
 
 ### Two Basic Types of Circuits
-1. Series Circuit
-
-A series circuit comprises a path along which the 
+  1. Series Circuit
+   > a series circuit comprises a path along which the 
 whole current flows through each component. 
 
-2. Parallel Circuit
-
-A parallel circuit comprises branches so that the 
+  2. Parallel Circuit
+   > a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
 <https://www.britannica.com/technology/electric-circuit#ref22644>
