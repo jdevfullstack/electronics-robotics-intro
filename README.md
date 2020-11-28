@@ -43,3 +43,12 @@ miniature personal computers (PCs) designed to control small features of
 a larger component, without a complex front-end operating system (OS).
 
 <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
+
+## Circuit
+> In electronics, a circuit is a closed path that allows 
+electricity to flow from one point to another. It may include various
+electrical components, such as transistors, resistors, 
+and capacitors, but the flow is unimpeded by a gap or 
+break in the circuit.
+
+<https://techterms.com/definition/circuit>
