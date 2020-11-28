@@ -22,3 +22,9 @@ as telephone and radio communication, computers, radar,
 and automatic control systems.
 
 <https://www.britannica.com/technology/electrical-and-electronics-engineering>
+
+## Electronics and Robotics
+Electronics devices can simply be controlled by adding a 
+microcontroller. When we program an electronic device the
+way we want it to work (particularly with sensors),
+it can be considered a robot. 
