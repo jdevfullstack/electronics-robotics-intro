@@ -59,13 +59,11 @@ source: <https://techterms.com/definition/circuit>
 ### Two Basic Types of Circuits
 ![sample](https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png)
 
-> 1. Series Circuit
->
+Series Circuit
 > a series circuit comprises a path along which the 
 whole current flows through each component. 
->
-> 2. Parallel Circuit
->
+
+Parallel Circuit
 > a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
