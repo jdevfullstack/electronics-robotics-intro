@@ -1,15 +1,15 @@
 # Introduction To Electronics 
 
 ## Electrical & Electronics Engineering
-Electrical and electronics engineering, the branch of 
+> Electrical and electronics engineering, the branch of 
 engineering concerned with the practical applications of 
 electricity in all its forms, including those of the field
 of electronics. Electronics engineering is that branch of 
 electrical engineering concerned with the uses of the 
 electromagnetic spectrum and with the application of such 
 electronic devices as integrated circuits and transistors.
-
-In engineering practice, the distinction between electrical 
+>
+> In engineering practice, the distinction between electrical 
 engineering and electronics is usually based on the comparative 
 strength of the electric currents used. In this sense, electrical 
 engineering is the branch dealing with “heavy current”—that is, 
@@ -27,12 +27,12 @@ way we want it to work (particularly with sensors),
 it can be considered a robot. 
 
 ## The Microcontroller
-A microcontroller is a compact integrated circuit designed 
+> A microcontroller is a compact integrated circuit designed 
 to govern a specific operation in an embedded system. A typical
 microcontroller includes a processor, memory and input/output 
 (I/O) peripherals on a single chip.
-
-Sometimes referred to as an embedded controller or microcontroller 
+> 
+> Sometimes referred to as an embedded controller or microcontroller 
 unit (MCU), microcontrollers are found in vehicles, robots, office 
 machines, medical devices, mobile radio transceivers, vending machines 
 and home appliances, among other devices. They are essentially simple 
@@ -41,7 +41,7 @@ a larger component, without a complex front-end operating system (OS).
 
 source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
 
-Arduino UNO (microcontroller)
+### Arduino UNO (microcontroller)
 
 ![sample](https://adrianglasser.com/EnVisionWorkshop/images/topic04_ArduinoUno_anatomy.jpg)
 
@@ -59,11 +59,11 @@ source: <https://techterms.com/definition/circuit>
 ### Two Basic Types of Circuits
 ![sample](https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png)
 
-1. Series Circuit
+> 1. Series Circuit
 a series circuit comprises a path along which the 
 whole current flows through each component. 
-
-2. Parallel Circuit
+>
+> 2. Parallel Circuit
 a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
