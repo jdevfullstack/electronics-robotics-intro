@@ -60,11 +60,13 @@ source: <https://techterms.com/definition/circuit>
 ![sample](https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png)
 
 > 1. Series Circuit
-a series circuit comprises a path along which the 
+>
+> a series circuit comprises a path along which the 
 whole current flows through each component. 
 >
 > 2. Parallel Circuit
-a parallel circuit comprises branches so that the 
+>
+> a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
 source: <https://www.britannica.com/technology/electric-circuit#ref22644>
