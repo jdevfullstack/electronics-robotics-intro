@@ -24,7 +24,7 @@ source: <https://www.britannica.com/technology/electrical-and-electronics-engine
 Electronic devices can simply be controlled by adding a 
 **microcontroller**. When we program an electronic device
 to do specific tasks (particularly with sensors),
-it is considered a robot. 
+you are now dealing with robotics. 
 
 ## The Microcontroller
 > A microcontroller is a compact integrated circuit designed 
