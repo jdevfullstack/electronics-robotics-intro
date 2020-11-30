@@ -70,7 +70,19 @@ current divides and only part of it flows through any branch.
 source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 
 ## Electronic Components Used in Our Project
-1. Power Supply
-2. Jumper Wires
-3. Light-Emitting Diode
-4. Switch
+1. Power Supply -
+It is the one responsible to power electrical
+components.
+We'll be using a direct current source,
+a battery.
+
+2. Jumper Wires - a wire that has connector or
+pins in both ends.
+
+3. Light-Emitting Diode - a diode that emits
+light. A `diode` is a semiconductor device with 
+two terminals, typically allowing the flow of current 
+in one direction only.
+
+4. Switch - the component that can disrupt
+the flow of a circuit.
