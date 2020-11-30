@@ -82,7 +82,7 @@ pins in both ends.
 3. Light-Emitting Diode - a diode that emits
 light. A `diode` is a semiconductor device with 
 two terminals, typically allowing the flow of current 
-in one direction only. A semiconductor is a substance,
+in one direction only. A `semiconductor` is a substance,
 usually a solid chemical element or compound, that can 
 conduct electricity under some conditions but not others, 
 making it a good medium for the control of electrical
