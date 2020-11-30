@@ -76,8 +76,7 @@ components.
 We'll be using a Direct Current source,
 a battery.
 
-2. Jumper Wires - wires with connectors /
-pins in both ends.
+2. Wires
 
 3. Light-Emitting Diode - a diode that emits
 light. A `diode` is a semiconductor device with 
