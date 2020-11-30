@@ -76,13 +76,19 @@ components.
 We'll be using a direct current source,
 a battery.
 
-2. Jumper Wires - a wire that has connector or
+2. Jumper Wires - a wire that has connectors /
 pins in both ends.
 
 3. Light-Emitting Diode - a diode that emits
 light. A `diode` is a semiconductor device with 
 two terminals, typically allowing the flow of current 
-in one direction only.
+in one direction only. A semiconductor is a substance,
+usually a solid chemical element or compound, that can 
+conduct electricity under some conditions but not others, 
+making it a good medium for the control of electrical
+current.
+
+source: <https://whatis.techtarget.com/definition/semiconductor>
 
 4. Switch - the component that can disrupt
 the flow of a circuit.
