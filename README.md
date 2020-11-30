@@ -21,10 +21,10 @@ and automatic control systems.
 source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>
 
 ## Electronics and Robotics
-Electronics devices can simply be controlled by adding a 
-**microcontroller**. When we program an electronic device the
-way we want it to work (particularly with sensors),
-it can be considered a robot. 
+Electronic devices can simply be controlled by adding a 
+**microcontroller**. When we program an electronic device
+to do specific tasks (particularly with sensors),
+it is considered a robot. 
 
 ## The Microcontroller
 > A microcontroller is a compact integrated circuit designed 
