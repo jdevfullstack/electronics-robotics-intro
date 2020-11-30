@@ -73,10 +73,10 @@ source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 1. Power Supply -
 It is the one responsible to power electrical
 components.
-We'll be using a direct current source,
+We'll be using a Direct Current source,
 a battery.
 
-2. Jumper Wires - a wire that has connectors /
+2. Jumper Wires - wires with connectors /
 pins in both ends.
 
 3. Light-Emitting Diode - a diode that emits
@@ -87,7 +87,6 @@ usually a solid chemical element or compound, that can
 conduct electricity under some conditions but not others, 
 making it a good medium for the control of electrical
 current.
-
 source: <https://whatis.techtarget.com/definition/semiconductor>
 
 4. Switch - the component that can disrupt
