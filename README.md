@@ -78,6 +78,17 @@ expressed in volts.
 `electric current` -  the rate at which electric 
 charge flows past a point on the electric circuit. 
 
+`ampere` - the SI base unit of electrical current.
+
+`ground` - In electronics and electrical engineering, it is 
+by convention we define a point in a circuit as a reference
+point. This reference point is known as ground (or GND) and
+carries a voltage of 0V. Voltage measurements are relative 
+measurements. That is, a voltage measurement must be compared
+to another point in the circuit. If it is not, 
+the measurement is meaningless.
+source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>
+
 ## Electronic Components Used in Our Project
 1. Power Supply -
 It is the one responsible to power electrical
