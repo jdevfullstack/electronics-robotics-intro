@@ -24,7 +24,7 @@ source: <https://www.britannica.com/technology/electrical-and-electronics-engine
 Electronic devices can simply be controlled by adding a 
 **microcontroller**. When we program an electronic device
 to do specific tasks (particularly with sensors),
-you are now dealing with robotics. 
+we are now dealing with robotics. 
 
 ## The Microcontroller
 > A microcontroller is a compact integrated circuit designed 
@@ -89,4 +89,4 @@ current.
 source: <https://whatis.techtarget.com/definition/semiconductor>
 
 4. Switch - the component that can disrupt
-the flow of a circuit.
+the flow of a circuit, thereby giving us control.
