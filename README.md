@@ -69,6 +69,15 @@ current divides and only part of it flows through any branch.
 
 source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 
+## Tech Terms
+`voltage` - an electromotive force or potential difference 
+expressed in volts.
+
+`open circuit` - an electrical circuit that is not complete.
+
+`electric current` -  the rate at which electric 
+charge flows past a point on the electric circuit. 
+
 ## Electronic Components Used in Our Project
 1. Power Supply -
 It is the one responsible to power electrical
