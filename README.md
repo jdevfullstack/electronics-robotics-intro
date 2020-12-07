@@ -92,7 +92,7 @@ source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
 
 ## Voltage Vs Amperage
-Voltage and amperage are two measures of electrical 
+Volts and amperage are two measures of electrical 
 current or flow of electrons. Voltage is a measure of 
 the pressure that 
 allows electrons to flow, while amperage is a measure
