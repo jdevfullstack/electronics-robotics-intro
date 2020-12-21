@@ -81,8 +81,18 @@ point. This reference point is known as ground (or GND) and
 carries a voltage of 0V. Voltage measurements are relative 
 measurements. That is, a voltage measurement must be compared
 to another point in the circuit. If it is not, 
-the measurement is meaningless.
-source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>
+the measurement is meaningless. source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html
+
+FYI - Even though one side of the circuit is the live wire,
+you can't simply touch it even there is no apparent neutral wire
+completing the circuit: you yourself is standing 
+on the Earth ground!
+A bird will not be shocked by landing on a live wire because
+it is not touching the ground, so even if there is the live
+wire, there is no return path completing the circuit
+and there is no shock.
+
+source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>
 
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
 
