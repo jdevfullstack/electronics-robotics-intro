@@ -70,15 +70,10 @@ current divides and only part of it flows through any branch.
 source: <https://www.britannica.com/technology/electric-circuit#ref22644>
 
 ## Tech Terms
-`voltage` - an electromotive force or potential difference 
-expressed in volts.
-
 `open circuit` - an electrical circuit that is not complete.
 
 `electric current` -  the rate at which electric 
 charge flows past a point on the electric circuit. 
-
-`ampere` - the SI base unit of electrical current.
 
 `ground` - In electronics and electrical engineering, it is 
 by convention, we define a point in a circuit as a reference
@@ -99,6 +94,10 @@ allows electrons to flow, while amperage is a measure
 of the volume of electrons.
 source: 
 <https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>
+
+`volt` - the SI unit of electromotive force, the difference of potential that would drive one ampere of current against one ohm resistance.
+
+`ampere` - the SI base unit of electrical current.
 
 ## Electronic Components Used in Our Project
 1. Power Supply -
