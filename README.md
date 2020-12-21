@@ -86,6 +86,9 @@ source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-
 
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
 
+`terminal` - is the point at which a conductor from a component, device or 
+network comes to an end. It is the point other components can be connected.
+
 ## Voltage Vs Amperage
 Voltage and amperage are two measures of electrical 
 current or flow of electrons. `Voltage` is a measure of 
