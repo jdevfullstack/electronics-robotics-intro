@@ -94,7 +94,7 @@ to our bodies in some instances, it will go directly to
 earth ground. 
 
 *FYI - Even though one side of the circuit is the live wire,
-you can't simply touch it even there is no apparent neutral wire
+you CANNOT simply touch it even there is no apparent neutral wire
 completing the circuit: you yourself is standing 
 on the earth ground!
 A bird will not be shocked by landing on a live wire because
