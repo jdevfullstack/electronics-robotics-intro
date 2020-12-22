@@ -150,12 +150,12 @@ current.
 the flow of a circuit, thereby giving us control.
 
 ## Arduino and TinkerCAD
-Arduino is a prototyping platform consisting both
+Arduino is a prototyping platform consisting of both
 hardware and software. When we say `prototyping`,
 we want to create a working model first before
 we build the actual product, so that we can test
 first whether our idea will work and to reduce the
-cost building the product.
+cost of building the product.
 
 TinkerCAD is an online simulator for our circuit
 designs. It's just like you are in a Robotics
