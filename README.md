@@ -106,6 +106,8 @@ it is not touching the ground, so even if there is the live
 wire, there is no return path completing the circuit
 and there is no electric shock.*
 
+![photo](https://www.ibiblio.org/kuphaldt/electricCircuits/DC/00056.png)
+
 *source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>*
 
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
