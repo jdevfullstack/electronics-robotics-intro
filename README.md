@@ -93,6 +93,8 @@ instead of the flow of charge going
 to our bodies in some instances, it will go directly to
 earth ground. 
 
+source: <http://www.learningaboutelectronics.com/Articles/Why-does-a-circuit-always-have-to-have-ground>
+
 *FYI - Even though one side of the circuit is the live wire,
 you CANNOT simply touch it even there is no apparent neutral wire
 completing the circuit: you yourself is standing 
