@@ -18,7 +18,7 @@ electronics engineering deals with such “light current” applications
 as telephone and radio communication, computers, radar, 
 and automatic control systems.
 
-source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>
+*source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>*
 
 ## Electronics and Robotics
 Electronic devices can simply be controlled by adding a 
@@ -39,7 +39,7 @@ and home appliances, among other devices. They are essentially simple
 miniature personal computers (PCs) designed to control small features of 
 a larger component, without a complex front-end operating system (OS).
 
-source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
+*source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>*
 
 ### Arduino UNO (microcontroller)
 
@@ -52,7 +52,7 @@ electrical components, such as transistors, resistors,
 and capacitors, but the flow is unimpeded by a gap or 
 break in the circuit.
 
-source: <https://techterms.com/definition/circuit>
+*source: <https://techterms.com/definition/circuit>*
 
 ![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
 
@@ -67,7 +67,7 @@ Parallel Circuit
 > a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
-source: <https://www.britannica.com/technology/electric-circuit#ref22644>
+*source: <https://www.britannica.com/technology/electric-circuit#ref22644>*
 
 ## Tech Terms
 `open circuit` - an electrical circuit that is not complete.
@@ -81,7 +81,9 @@ point. This reference point is known as ground (or GND) and
 carries a voltage of 0V. Voltage measurements are relative 
 measurements. That is, a voltage measurement must be compared
 to another point in the circuit. If it is not, 
-the measurement is meaningless. source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html
+the measurement is meaningless. 
+
+*source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>*
 
 An earth ground is when a circuit has a physical connection to 
 the earth, in order to sink electrons through to a ground 
@@ -93,7 +95,7 @@ instead of the flow of charge going
 to our bodies in some instances, it will go directly to
 earth ground. 
 
-source: <http://www.learningaboutelectronics.com/Articles/Why-does-a-circuit-always-have-to-have-ground>
+*source: <http://www.learningaboutelectronics.com/Articles/Why-does-a-circuit-always-have-to-have-ground>*
 
 *FYI - Even though one side of the circuit is the live wire,
 you CANNOT simply touch it even there is no apparent neutral wire
@@ -104,7 +106,7 @@ it is not touching the ground, so even if there is the live
 wire, there is no return path completing the circuit
 and there is no electric shock.*
 
-source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>
+*source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>*
 
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
 
@@ -117,8 +119,9 @@ current or flow of electrons. `Voltage` is a measure of
 the pressure that 
 allows electrons to flow, while `amperage` is a measure
 of the volume of electrons.
-source: 
-<https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>
+
+*source: 
+<https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>*
 
 `volt` - the SI unit of electromotive force, the difference of potential that would drive one ampere of current against one ohm resistance.
 
@@ -141,7 +144,7 @@ usually a solid chemical element or compound, that can
 conduct electricity under some conditions but not others, 
 making it a good medium for the control of electrical
 current.
-source: <https://whatis.techtarget.com/definition/semiconductor>
+*source: <https://whatis.techtarget.com/definition/semiconductor>*
 
 4. Switch - the component that can disrupt
 the flow of a circuit, thereby giving us control.
