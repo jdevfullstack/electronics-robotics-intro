@@ -159,7 +159,7 @@ cost building the product.
 
 TinkerCAD is an online simulator for our circuit
 designs. It's just like you are in a Robotics
-laboratory and there is the complete setup but
+laboratory and there is the complete setup, but
 this time, it's just virtual. And since it is
 accessible through a browser, all you need is 
 a device with a browser and an Internet connection
