@@ -18,7 +18,7 @@ electronics engineering deals with such “light current” applications
 as telephone and radio communication, computers, radar, 
 and automatic control systems.
 
-source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>
+*source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>*
 
 ## Electronics and Robotics
 Electronic devices can simply be controlled by adding a 
@@ -39,7 +39,7 @@ and home appliances, among other devices. They are essentially simple
 miniature personal computers (PCs) designed to control small features of 
 a larger component, without a complex front-end operating system (OS).
 
-source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>
+*source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>*
 
 ### Arduino UNO (microcontroller)
 
@@ -52,7 +52,7 @@ electrical components, such as transistors, resistors,
 and capacitors, but the flow is unimpeded by a gap or 
 break in the circuit.
 
-source: <https://techterms.com/definition/circuit>
+*source: <https://techterms.com/definition/circuit>*
 
 ![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
 
@@ -67,18 +67,13 @@ Parallel Circuit
 > a parallel circuit comprises branches so that the 
 current divides and only part of it flows through any branch.
 
-source: <https://www.britannica.com/technology/electric-circuit#ref22644>
+*source: <https://www.britannica.com/technology/electric-circuit#ref22644>*
 
 ## Tech Terms
-`voltage` - an electromotive force or potential difference 
-expressed in volts.
-
 `open circuit` - an electrical circuit that is not complete.
 
 `electric current` -  the rate at which electric 
 charge flows past a point on the electric circuit. 
-
-`ampere` - the SI base unit of electrical current.
 
 `ground` - In electronics and electrical engineering, it is 
 by convention, we define a point in a circuit as a reference
@@ -86,19 +81,51 @@ point. This reference point is known as ground (or GND) and
 carries a voltage of 0V. Voltage measurements are relative 
 measurements. That is, a voltage measurement must be compared
 to another point in the circuit. If it is not, 
-the measurement is meaningless.
-source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>
+the measurement is meaningless. 
+
+*source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>*
+
+An earth ground is when a circuit has a physical connection to 
+the earth, in order to sink electrons through to a ground 
+connected to the earth, thereby saving lives.
+When an electrical system has a direct connection to
+the earth ground (the 3-prong plug: one is positive,
+one is negative, one is the earth ground prong),
+instead of the flow of charge going 
+to our bodies in some instances, it will go directly to
+earth ground. 
+
+*source: <http://www.learningaboutelectronics.com/Articles/Why-does-a-circuit-always-have-to-have-ground>*
+
+*FYI - Even though one side of the circuit is the live wire,
+you CANNOT simply touch it even there is no apparent neutral wire
+completing the circuit: you yourself is standing 
+on the earth ground!
+A bird will not be shocked by landing on a live wire because
+it is not touching the ground, so even if there is the live
+wire, there is no return path completing the circuit
+and there is no electric shock.*
+
+*source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>*
 
 `hot wire` (electrical term) - carries the electricity, also called `live wire`
 
+`terminal` - is the point at which a conductor from a component, device or 
+network comes to an end. It is the point other components can be connected.
+
 ## Voltage Vs Amperage
 Voltage and amperage are two measures of electrical 
-current or flow of electrons. Voltage is a measure of 
+current or flow of electrons. `Voltage` is a measure of 
 the pressure that 
-allows electrons to flow, while amperage is a measure
+allows electrons to flow, while `amperage` is a measure
 of the volume of electrons.
-source: 
-<https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>
+
+*source: 
+<https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>*
+
+`volt` - the SI unit of electromotive force, the difference of potential that would drive one ampere of current against one ohm resistance.
+
+`ampere` - the SI base unit of electrical current.
 
 ## Electronic Components Used in Our Project
 1. Power Supply -
@@ -117,7 +144,7 @@ usually a solid chemical element or compound, that can
 conduct electricity under some conditions but not others, 
 making it a good medium for the control of electrical
 current.
-source: <https://whatis.techtarget.com/definition/semiconductor>
+*source: <https://whatis.techtarget.com/definition/semiconductor>*
 
 4. Switch - the component that can disrupt
 the flow of a circuit, thereby giving us control.
