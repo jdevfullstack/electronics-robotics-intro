@@ -148,3 +148,20 @@ current.
 
 4. Switch - the component that can disrupt
 the flow of a circuit, thereby giving us control.
+
+## Arduino and TinkerCAD
+Arduino is a prototyping platform consisting both
+hardware and software. When we say `prototyping`,
+we want to create a working model first before
+we build the actual product, so that we can test
+first whether our idea will work and to reduce the
+cost building the product.
+
+TinkerCAD is an online simulator for our circuit
+designs. It's just like you are in a Robotics
+laboratory and there is the complete setup but
+this time, it's just virtual. And since it is
+accessible through a browser, all you need is 
+a device with a browser and an Internet connection
+and you are good to go: no further setup, 
+no additional downloads. 
