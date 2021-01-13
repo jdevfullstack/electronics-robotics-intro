@@ -147,7 +147,7 @@ making it a good medium for the control of electrical
 current.
 *source: <https://whatis.techtarget.com/definition/semiconductor>*
 
-4. Switch - the component that can disrupt
+4. Switch (slide switch) - the component that can disrupt
 the flow of a circuit, thereby giving us control.
 
 ## Arduino and TinkerCAD
