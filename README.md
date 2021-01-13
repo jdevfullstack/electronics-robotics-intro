@@ -86,8 +86,7 @@ the measurement is meaningless.
 *source: <https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/>*
 
 An earth ground is when a circuit has a physical connection to 
-the earth, in order to sink electrons through to a ground 
-connected to the earth, thereby saving lives.
+the earth, in order to sink electrons, thereby saving lives.
 When an electrical system has a direct connection to
 the earth ground (the 3-prong plug: one is positive,
 one is negative, one is the earth ground prong),
