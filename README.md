@@ -43,7 +43,7 @@ a larger component, without a complex front-end operating system (OS).
 
 ### Arduino UNO (microcontroller)
 
-![sample](https://adrianglasser.com/EnVisionWorkshop/images/topic04_ArduinoUno_anatomy.jpg)
+![sample](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2017/02/Blog-Featured-Image.png)
 
 ## Circuit
 > In electronics, a circuit is a closed path that allows 
