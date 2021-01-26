@@ -2,7 +2,7 @@
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
 2. [Electronics And Robotics](#electronics-and-robotics)
 3. [The Microcontroller](#the-microcontroller)
-    1. [Arduino UNO (microcontroller)](#arduino-uno-(-microcontroller-))
+    1. [Arduino UNO](#arduino-uno)
 4. Circuit      
     1. Two Basic Types of Circuits
 5. Tech Terms
@@ -54,7 +54,7 @@ a larger component, without a complex front-end operating system (OS).
 
 *source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>*
 
-### Arduino UNO (microcontroller)
+### Arduino UNO
 
 ![sample](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_8.jpg)
 
