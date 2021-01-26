@@ -1,6 +1,6 @@
 
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
-2. [Electronics and Robotics](#electronics-and-robotics)
+2. [Electronics And Robotics](#electronics-and-robotics)
 3. The Microcontroller
     1. Arduino UNO (microcontroller)
 4. Circuit      
@@ -33,7 +33,7 @@ and automatic control systems.
 
 *source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>*
 
-## Electronics and Robotics
+## Electronics And Robotics
 Electronic devices can simply be controlled by adding a 
 **microcontroller**. When we program an electronic device
 to do specific tasks (particularly with sensors),
