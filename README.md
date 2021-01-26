@@ -1,4 +1,4 @@
-***
+
 [1. Electrical & Electronics Engineering](##electrical-&-electronics-engineering)
 
 2. Electronics and Robotics
@@ -10,7 +10,7 @@
     1. Voltage Vs Amperage
 6. Electronic Components Used in Our Project
     1. Arduino and TinkerCAD     
-***      
+   
 
 # Introduction To Electronics 
 
