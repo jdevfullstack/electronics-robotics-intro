@@ -12,7 +12,6 @@ Table Of Contents
 7. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
 8. [Arduino and TinkerCAD](#arduino-and-tinkercad)    
 
-***   
 
 ## Electrical And Electronics Engineering
 > Electrical and electronics engineering, the branch of 
