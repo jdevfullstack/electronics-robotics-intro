@@ -3,8 +3,8 @@
 2. [Electronics And Robotics](#electronics-and-robotics)
 3. [The Microcontroller](#the-microcontroller)
     1. [Arduino UNO](#arduino-uno)
-4. Circuit      
-    1. Two Basic Types of Circuits
+4. [Circuit](#circuit)      
+    1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
 5. Tech Terms
     1. Voltage Vs Amperage
 6. Electronic Components Used in Our Project
