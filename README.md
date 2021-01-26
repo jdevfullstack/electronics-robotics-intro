@@ -1,5 +1,4 @@
-
-***
+# Introduction To Electronics ***
 
 Table Of Contents
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
@@ -14,8 +13,6 @@ Table Of Contents
 8. [Arduino and TinkerCAD](#arduino-and-tinkercad)    
 
 ***   
-
-# Introduction To Electronics 
 
 ## Electrical And Electronics Engineering
 > Electrical and electronics engineering, the branch of 
