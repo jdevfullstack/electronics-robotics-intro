@@ -8,9 +8,9 @@ Table Of Contents
 4. [Circuit](#circuit)      
     1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
 5. [Tech Terms](#tech-terms)
-    1. [Voltage Vs Amperage](voltage-vs-amperage)
-6. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
-7. [Arduino and TinkerCAD](#arduino-and-tinkercad)     
+6. [Voltage Vs Amperage](#voltage-vs-amperage)
+7. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
+8. [Arduino and TinkerCAD](#arduino-and-tinkercad)     
 ***   
 
 # Introduction To Electronics 
