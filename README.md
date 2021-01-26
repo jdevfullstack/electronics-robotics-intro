@@ -1,14 +1,14 @@
 ***
-    1. Electrical & Electronics Engineering
-    2. Electronics and Robotics
-    3. The Microcontroller
-        1. Arduino UNO (microcontroller)
-    4. Circuit      
-        1. Two Basic Types of Circuits
-    5. Tech Terms
-    6. Voltage Vs Amperage
-    7. Electronic Components Used in Our Project
-    8. Arduino and TinkerCAD     
+1. Electrical & Electronics Engineering
+2. Electronics and Robotics
+3. The Microcontroller
+    1. Arduino UNO (microcontroller)
+4. Circuit      
+    1. Two Basic Types of Circuits
+5. Tech Terms
+    1. Voltage Vs Amperage
+6. Electronic Components Used in Our Project
+    1. Arduino and TinkerCAD     
 ***      
 
 # Introduction To Electronics 
