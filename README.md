@@ -1,6 +1,21 @@
+
+***
+Table Of Contents
+1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
+2. [Electronics And Robotics](#electronics-and-robotics)
+3. [The Microcontroller](#the-microcontroller)
+    1. [Arduino UNO](#arduino-uno)
+4. [Circuit](#circuit)      
+    1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
+5. [Tech Terms](#tech-terms)
+    1. [Voltage Vs Amperage](voltage-vs-amperage)
+6. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
+7. [Arduino and TinkerCAD](#arduino-and-tinkercad)     
+***   
+
 # Introduction To Electronics 
 
-## Electrical & Electronics Engineering
+## Electrical And Electronics Engineering
 > Electrical and electronics engineering, the branch of 
 engineering concerned with the practical applications of 
 electricity in all its forms, including those of the field
@@ -20,7 +35,7 @@ and automatic control systems.
 
 *source: <https://www.britannica.com/technology/electrical-and-electronics-engineering>*
 
-## Electronics and Robotics
+## Electronics And Robotics
 Electronic devices can simply be controlled by adding a 
 **microcontroller**. When we program an electronic device
 to do specific tasks (particularly with sensors),
@@ -41,7 +56,7 @@ a larger component, without a complex front-end operating system (OS).
 
 *source: <https://internetofthingsagenda.techtarget.com/definition/microcontroller>*
 
-### Arduino UNO (microcontroller)
+### Arduino UNO
 
 ![sample](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_8.jpg)
 
@@ -128,7 +143,7 @@ of the volume of electrons.
 
 `ampere` - the SI base unit of electrical current.
 
-## Electronic Components Used in Our Project
+## Electronic Components Used In Our Project
 1. Power Supply -
 It is the one responsible to power electrical
 components.
