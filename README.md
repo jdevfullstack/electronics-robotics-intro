@@ -1,5 +1,5 @@
 
-- [1. Electrical & Electronics Engineering](#electrical-&-electronics-engineering)
+- [1. Electrical & Electronics Engineering](#electrical-electronics-engineering)
 2. Electronics and Robotics
 3. The Microcontroller
     1. Arduino UNO (microcontroller)
@@ -13,7 +13,7 @@
 
 # Introduction To Electronics 
 
-## Electrical & Electronics Engineering
+## Electrical Electronics Engineering
 > Electrical and electronics engineering, the branch of 
 engineering concerned with the practical applications of 
 electricity in all its forms, including those of the field
