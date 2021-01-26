@@ -1,15 +1,16 @@
 
 ***
+Table Of Contents
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
 2. [Electronics And Robotics](#electronics-and-robotics)
 3. [The Microcontroller](#the-microcontroller)
     1. [Arduino UNO](#arduino-uno)
 4. [Circuit](#circuit)      
     1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
-5. Tech Terms
-    1. Voltage Vs Amperage
-6. Electronic Components Used in Our Project
-    1. Arduino and TinkerCAD     
+5. [Tech Terms](#tech-terms)
+    1. [Voltage Vs Amperage](voltage-vs-amperage)
+6. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
+7. [Arduino and TinkerCAD](#arduino-and-tinkercad)     
 ***   
 
 # Introduction To Electronics 
@@ -142,7 +143,7 @@ of the volume of electrons.
 
 `ampere` - the SI base unit of electrical current.
 
-## Electronic Components Used in Our Project
+## Electronic Components Used In Our Project
 1. Power Supply -
 It is the one responsible to power electrical
 components.
