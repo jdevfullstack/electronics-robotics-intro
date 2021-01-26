@@ -1,6 +1,4 @@
 ***
-
-
     1. Electrical & Electronics Engineering
     2. Electronics and Robotics
     3. The Microcontroller
@@ -10,8 +8,7 @@
     5. Tech Terms
     6. Voltage Vs Amperage
     7. Electronic Components Used in Our Project
-    8. Arduino and TinkerCAD    
-    
+    8. Arduino and TinkerCAD     
 ***      
 
 # Introduction To Electronics 
