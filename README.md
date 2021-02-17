@@ -177,3 +177,8 @@ accessible through a browser, all you need is
 a device with a browser and an Internet connection
 and you are good to go: no further setup, 
 no additional downloads. 
+
+You can check out my projects:
+
+1. <https://github.com/xdvrx1/single-display-arduino-project>
+2. <https://github.com/xdvrx1/blinking-led-arduino>
