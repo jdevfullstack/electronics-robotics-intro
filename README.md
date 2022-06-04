@@ -183,5 +183,5 @@ no additional downloads.
 
 You can check out my projects:
 
-1. <https://github.com/xdvrx1/single-display-arduino-project>
-2. <https://github.com/xdvrx1/blinking-led-arduino>
+1. <https://github.com/jdevstatic/single-display-arduino-project>
+2. <https://github.com/jdevstatic/blinking-led-arduino>
