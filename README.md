@@ -1,6 +1,6 @@
 # Introduction To Electronics 
 
-*`updated 21 April 2022`*
+*`updated 4 August 2022`*
 
 TOC
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
@@ -179,9 +179,4 @@ this time, it's just virtual. And since it is
 accessible through a browser, all you need is 
 a device with a browser and an Internet connection
 and you are good to go: no further setup, 
-no additional downloads. 
-
-You can check out my projects:
-
-1. <https://github.com/jdevstatic/single-display-arduino-project>
-2. <https://github.com/jdevstatic/blinking-led-arduino>
+no additional downloads.
