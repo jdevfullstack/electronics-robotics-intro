@@ -183,8 +183,6 @@ no additional downloads.
 
 ## More Of My Topics
 
-#### <https://github.com/jdevstatic/basic-electronics>
-
 #### <https://github.com/jdevstatic/programming-core-concepts>
 
 #### <https://github.com/jdevstatic/github-pages-tutorial>
@@ -199,4 +197,4 @@ no additional downloads.
 
 #### <https://github.com/jdevstatic/PureBasic-Scrabble>
 
-### <https://github.com/jdevstatic/hacking-the-github-stats>
+#### <https://github.com/jdevstatic/hacking-the-github-stats>
