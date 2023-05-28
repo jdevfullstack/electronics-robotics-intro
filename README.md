@@ -198,3 +198,5 @@ no additional downloads.
 #### <https://github.com/jdevstatic/PureBasic-FileExplorer>
 
 #### <https://github.com/jdevstatic/PureBasic-Scrabble>
+
+### <https://github.com/jdevstatic/hacking-the-github-stats>
