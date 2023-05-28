@@ -1,6 +1,6 @@
 # Introduction To Electronics 
 
-*`updated 4 August 2022`*
+*`updated 28 May 2023`*
 
 TOC
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
@@ -180,3 +180,21 @@ accessible through a browser, all you need is
 a device with a browser and an Internet connection
 and you are good to go: no further setup, 
 no additional downloads.
+
+## More Of My Topics
+
+#### <https://github.com/jdevstatic/basic-electronics>
+
+#### <https://github.com/jdevstatic/programming-core-concepts>
+
+#### <https://github.com/jdevstatic/github-pages-tutorial>
+
+#### <https://github.com/jdevstatic/java>
+
+#### <https://github.com/jdevstatic/lightweight-web-server>
+
+#### <https://github.com/jdevstatic/java-coding-problems>
+
+#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
+
+#### <https://github.com/jdevstatic/PureBasic-Scrabble>
