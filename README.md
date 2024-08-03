@@ -1,4 +1,4 @@
-# Introduction To Electronics 
+# Introduction To Electronics & Robotics
 
 *`updated July 3, 2024`*
 
