@@ -10,7 +10,7 @@ TOC
 4. [Circuit](#circuit)      
     1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
     2. [To Series Or To Parallel](#to-series-or-to-parallel)
-5. [Tech Terms](#tech-terms)
+5. [Some Common Tech Terms](#some-common-tech-terms)
 6. [Voltage Vs Amperage](#voltage-vs-amperage)
 7. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
 8. [Arduino and TinkerCAD](#arduino-and-tinkercad)    
@@ -162,7 +162,7 @@ current divides and only part of it flows through any branch.
   stability, flexibility, and protection. It’s about meeting the
   specific performance and functional requirements of the device or circuit.
 
-## Tech Terms
+## Some Common Tech Terms
 `open circuit` - an electrical circuit that is not complete.
 
 `electric current` -  the rate at which electric 
