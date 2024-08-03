@@ -122,8 +122,12 @@ break in the circuit.
 
 ![basic-electrical-circuit](https://github.com/user-attachments/assets/08221a3f-ab19-4ce8-9d89-1013add1a15b)
 
+*image source: <https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg>*
+
 ### Two Basic Types of Circuits
 ![series-parallel-circuits](https://github.com/user-attachments/assets/f002b18d-406a-42ee-bc71-24d51e959938)
+
+*image source: <https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png>*
 
 Series Circuit
 > a series circuit comprises a path along which the 
@@ -134,10 +138,6 @@ Parallel Circuit
 current divides and only part of it flows through any branch.
 
 *source: <https://www.britannica.com/technology/electric-circuit#ref22644>*
-
-*image source: <https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg>*
-
-*image source: <https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png>*
 
 ## Tech Terms
 `open circuit` - an electrical circuit that is not complete.
@@ -175,9 +175,9 @@ it is not touching the ground, so even if there is the live
 wire, there is no return path completing the circuit
 and there is no electric shock.*
 
-![electric-shock](https://github.com/user-attachments/assets/a04a9333-a1e2-4870-b7b6-0485ab2014ae)
-
 *source: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_3.html>*
+
+![electric-shock](https://github.com/user-attachments/assets/a04a9333-a1e2-4870-b7b6-0485ab2014ae)
 
 *image soure: <https://www.ibiblio.org/kuphaldt/electricCircuits/DC/00056.png>*
 
