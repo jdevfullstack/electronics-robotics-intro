@@ -120,10 +120,10 @@ break in the circuit.
 
 *source: <https://techterms.com/definition/circuit>*
 
-![sample](https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg)
+![basic-electrical-circuit](https://github.com/user-attachments/assets/08221a3f-ab19-4ce8-9d89-1013add1a15b)
 
 ### Two Basic Types of Circuits
-![sample](https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png)
+![series-parallel-circuits](https://github.com/user-attachments/assets/f002b18d-406a-42ee-bc71-24d51e959938)
 
 Series Circuit
 > a series circuit comprises a path along which the 
@@ -134,6 +134,10 @@ Parallel Circuit
 current divides and only part of it flows through any branch.
 
 *source: <https://www.britannica.com/technology/electric-circuit#ref22644>*
+
+*image source: <https://electricalacademia.com/wp-content/uploads/2018/09/tech-lesson-11-5a-electricity-and-circuits-basic-electrical-circuit-diagram-400x300.jpg>*
+
+*image source: <https://cdn1.byjus.com/wp-content/uploads/2020/06/series-and-parallel-circuit.png>*
 
 ## Tech Terms
 `open circuit` - an electrical circuit that is not complete.
