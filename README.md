@@ -1,6 +1,6 @@
 # Introduction To Electronics 
 
-*`updated 28 May 2023`*
+*`updated July 3, 2024`*
 
 TOC
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
@@ -86,7 +86,30 @@ a larger component, without a complex front-end operating system (OS).
 
 ### Arduino UNO
 
-![sample](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_8.jpg)
+The Arduino UNO is a widely used microcontroller board designed for building
+digital devices and interactive objects. It features an ATmega328P 
+microcontroller with 14 digital I/O pins (6 PWM outputs) and 6 analog inputs. 
+Operating at 5V with a 16 MHz clock speed, it provides 32 KB flash memory, 
+2 KB SRAM, and 1 KB EEPROM. The board supports USB connectivity, 
+a power jack, ICSP header, and a reset button. 
+
+#### Pros:
+- user-friendly for beginners
+- extensive community support
+- versatile with many compatible sensors and shields
+- open-source hardware and software
+
+#### Cons:
+- limited processing power
+- limited memory
+- basic built-in connectivity options
+
+The Arduino UNO is perfect for those starting with electronics and 
+prototyping, offering a robust platform for learning and development.
+
+![image](https://github.com/user-attachments/assets/a3207b29-0b7a-4472-a237-f30d59abf75b)
+
+*image source: <https://circuitdigest.com/sites/default/files/field/image/Arduino-UNO-Description.png>*
 
 ## Circuit
 > In electronics, a circuit is a closed path that allows 
@@ -210,20 +233,8 @@ a device with a browser and an Internet connection
 and you are good to go: no further setup, 
 no additional downloads.
 
-## More Of My Topics
-
-#### <https://github.com/jdevstatic/programming-core-concepts>
-
-#### <https://github.com/jdevstatic/github-pages-tutorial>
-
-#### <https://github.com/jdevstatic/java>
-
-#### <https://github.com/jdevstatic/lightweight-web-server>
-
-#### <https://github.com/jdevstatic/java-coding-problems>
-
-#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
-
-#### <https://github.com/jdevstatic/PureBasic-Scrabble>
-
-#### <https://github.com/jdevstatic/hacking-the-github-stats>
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
