@@ -12,8 +12,7 @@ TOC
     2. [To Series Or To Parallel](#to-series-or-to-parallel)
 5. [Some Common Tech Terms](#some-common-tech-terms)
 6. [Voltage Vs Amperage](#voltage-vs-amperage)
-7. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
-8. [Arduino and TinkerCAD](#arduino-and-tinkercad)    
+7. [Arduino and TinkerCAD](#arduino-and-tinkercad)    
 
 ## Electrical And Electronics Engineering
 > Electrical and electronics engineering, the branch of 
@@ -222,28 +221,6 @@ of the volume of electrons.
 `volt` - the SI unit of electromotive force, the difference of potential that would drive one ampere of current against one ohm resistance.
 
 `ampere` - the SI base unit of electrical current.
-
-## Electronic Components Used In Our Project
-1. Power Supply -
-It is the one responsible to power electrical
-components.
-We'll be using a Direct Current source,
-a battery.
-
-2. Wires
-
-3. Light-Emitting Diode - a diode that emits
-light. A `diode` is a semiconductor device with 
-two terminals, typically allowing the flow of current 
-in one direction only. A `semiconductor` is a substance,
-usually a solid chemical element or compound, that can 
-conduct electricity under some conditions but not others, 
-making it a good medium for the control of electrical
-current.
-*source: <https://whatis.techtarget.com/definition/semiconductor>*
-
-4. Switch (slide switch) - the component that can disrupt
-the flow of a circuit, thereby giving us control.
 
 ## Arduino and TinkerCAD
 Arduino is a prototyping platform consisting of both
