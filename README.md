@@ -9,6 +9,7 @@ TOC
     1. [Arduino UNO](#arduino-uno)
 4. [Circuit](#circuit)      
     1. [Two Basic Types of Circuits](#two-basic-types-of-circuits)
+    2. [To Series Or To Parallel](#to-series-or-to-parallel)
 5. [Tech Terms](#tech-terms)
 6. [Voltage Vs Amperage](#voltage-vs-amperage)
 7. [Electronic Components Used In Our Project](#electronic-components-used-in-our-project)
@@ -138,6 +139,28 @@ Parallel Circuit
 current divides and only part of it flows through any branch.
 
 *source: <https://www.britannica.com/technology/electric-circuit#ref22644>*
+
+### To Series Or To Parallel
+- **Voltage Requirements**:  
+  Series circuits are used to achieve specific voltage drops across
+  components, while parallel circuits maintain consistent
+  voltage across all connected components.
+
+- **Current Handling**:  
+  Parallel connections distribute current among multiple paths, making
+  them suitable for applications where multiple components need
+  to share the load. In contrast, series connections ensure that
+  the same current flows through all components.
+
+- **Reliability and Redundancy**:  
+  Parallel circuits offer increased reliability and redundancy. If one
+  component fails, others continue to operate, which is essential for
+  applications needing high availability.
+
+- **Design Goals**:  
+  The design choice is driven by the desired characteristics such as
+  stability, flexibility, and protection. It’s about meeting the
+  specific performance and functional requirements of the device or circuit.
 
 ## Tech Terms
 `open circuit` - an electrical circuit that is not complete.
