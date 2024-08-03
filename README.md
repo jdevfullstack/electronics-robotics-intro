@@ -209,18 +209,17 @@ and there is no electric shock.*
 network comes to an end. It is the point other components can be connected.
 
 ## Voltage Vs Amperage
-Voltage and amperage are two measures of electrical 
-current or flow of electrons. `Voltage` is a measure of 
-the pressure that 
-allows electrons to flow, while `amperage` is a measure
-of the volume of electrons.
 
-*source: 
-<https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>*
+Voltage and amperage are two measures of electrical current or the flow of electrons. 
+`voltage` is a measure of the pressure that allows electrons to flow, 
+while `amperage` is a measure of the volume of electrons.
 
-`volt` - the SI unit of electromotive force, the difference of potential that would drive one ampere of current against one ohm resistance.
+*source: <https://www.thespruce.com/amperage-not-voltage-kills-1152476#:~:text=Voltage%20and%20amperage%20are%20two,of%20the%20volume%20of%20electrons.>*
 
-`ampere` - the SI base unit of electrical current.
+`volt` - The SI unit of electromotive force. It represents the potential
+difference that would drive one ampere of current against one ohm of resistance.
+
+`ampere` - The SI base unit of electrical current.
 
 ## Arduino and TinkerCAD
 Arduino is a prototyping platform consisting of both
