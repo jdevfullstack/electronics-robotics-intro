@@ -1,6 +1,6 @@
 # Introduction To Electronics & Robotics
 
-*`updated July 3, 2024`*
+*`updated August 3, 2024`*
 
 TOC
 1. [Electrical & Electronics Engineering](#electrical-and-electronics-engineering)
